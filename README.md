@@ -34,7 +34,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<br><br>
+<br>
 my music genre varies from time to time hehe
 <br><br>
 
