@@ -30,7 +30,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 </div>
-<br>
+<br><br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br><br>
 my music genre varies from time to time hehe
 <br><br>
 
