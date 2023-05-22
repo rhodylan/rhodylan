@@ -31,7 +31,9 @@
 </div>
 </div>
 <br><br>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <br><br>
 my music genre varies from time to time hehe
 <br><br>
